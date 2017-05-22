@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+shift+c"], "command": "insert_title_prompt" },
+	{ "keys": ["ctrl+shift+u"], "command": "insert_sub_title_prompt" },
+	{ "keys": ["ctrl+shift+x"], "command": "insert_box_prompt" },
+	{ "keys": ["ctrl+shift+a"], "command": "insert_ascii_art_prompt" },
+    { "keys": ["shift+alt+left"], "command": "toggle_side_bar" },
+    { "keys": ["shift+alt+right"], "command": "toggle_full_screen" }
+]
